@@ -1,0 +1,3 @@
+rootProject.name = 'batiste'
+
+include ':app'
